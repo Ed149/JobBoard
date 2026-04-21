@@ -8,11 +8,7 @@ interface Props {
 }
 
 export const FavoriteBookmark = ({ id }: Props) => {
-
     const [isFavorite, setIsFavorite] = useState(localStorage.getItem(id) ?? false);
-
-    console.log(localStorage.getItem(id))
-    console.log(isFavorite)
 
     const handleMarkFavorite = () => {
         if (isFavorite) {
