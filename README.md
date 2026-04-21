@@ -57,36 +57,3 @@ test-01-job-board/
 │   ├── utils.ts            
 └── public/                 # Assets estáticos
 ```
-
----
-
-```markdown
-## ¿Qué construí?
-Descripción breve del proyecto y el test elegido.
-
-## Cómo correrlo
-Pasos concretos desde cero.
-
-## Variables de entorno
-Lista y descripción de cada variable en .env.example (si aplica).
-
-## Decisiones técnicas
-¿Por qué elegiste X librería sobre Y? ¿Qué trade-offs hiciste?
-
-## Qué haría con más tiempo
-Sé honesto. Esto nos importa tanto como lo que sí entregaste.
-```
-
----
-
-## La revisión técnica post-entrega
-
-Una vez revisado el código, agendaremos una llamada de **30–45 minutos**. No es otro examen — es una conversación. Vamos a preguntarte cosas como:
-
-- "Explícame cómo funciona esta parte de tu código"
-- "¿Por qué usaste este approach y no este otro?"
-- "Si tuvieras que agregar [feature X], ¿cómo lo harías?"
-- "¿Qué parte te resultó más difícil y cómo la resolviste?"
-- "¿Qué cambiarías del diseño si tuvieras que escalar esto?"
-
-El objetivo es entender tu proceso de pensamiento, no hacerte tropezar. Si usaste IA para una parte, no hay problema — cuéntanos cómo la usaste y qué aprendiste del resultado.
